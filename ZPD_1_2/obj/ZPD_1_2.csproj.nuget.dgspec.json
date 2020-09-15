@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Misc\\ZPD\\ZPD-Lab-2\\ZPD_1_2\\ZPD_1_2.csproj": {}
+    "E:\\ZPD\\ZPD-Lab-1-2\\ZPD_1_2\\ZPD_1_2.csproj": {}
   },
   "projects": {
-    "C:\\Misc\\ZPD\\ZPD-Lab-2\\ZPD_1_2\\ZPD_1_2.csproj": {
+    "E:\\ZPD\\ZPD-Lab-1-2\\ZPD_1_2\\ZPD_1_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Misc\\ZPD\\ZPD-Lab-2\\ZPD_1_2\\ZPD_1_2.csproj",
+        "projectUniqueName": "E:\\ZPD\\ZPD-Lab-1-2\\ZPD_1_2\\ZPD_1_2.csproj",
         "projectName": "ZPD_1_2",
-        "projectPath": "C:\\Misc\\ZPD\\ZPD-Lab-2\\ZPD_1_2\\ZPD_1_2.csproj",
-        "packagesPath": "C:\\Users\\Вадим\\.nuget\\packages\\",
-        "outputPath": "C:\\Misc\\ZPD\\ZPD-Lab-2\\ZPD_1_2\\obj\\",
+        "projectPath": "E:\\ZPD\\ZPD-Lab-1-2\\ZPD_1_2\\ZPD_1_2.csproj",
+        "packagesPath": "C:\\Users\\Vadym\\.nuget\\packages\\",
+        "outputPath": "E:\\ZPD\\ZPD-Lab-1-2\\ZPD_1_2\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Вадим\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Vadym\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -10,3 +10,16 @@ C:\Misc\ZPD\ZPD-Lab-2\ZPD_1_2\obj\Debug\netcoreapp3.1\ZPD_1_2.AssemblyInfo.cs
 C:\Misc\ZPD\ZPD-Lab-2\ZPD_1_2\obj\Debug\netcoreapp3.1\ZPD_1_2.dll
 C:\Misc\ZPD\ZPD-Lab-2\ZPD_1_2\obj\Debug\netcoreapp3.1\ZPD_1_2.pdb
 C:\Misc\ZPD\ZPD-Lab-2\ZPD_1_2\obj\Debug\netcoreapp3.1\ZPD_1_2.genruntimeconfig.cache
+E:\ZPD\ZPD-Lab-1-2\ZPD_1_2\bin\Debug\netcoreapp3.1\ZPD_1_2.exe
+E:\ZPD\ZPD-Lab-1-2\ZPD_1_2\bin\Debug\netcoreapp3.1\ZPD_1_2.deps.json
+E:\ZPD\ZPD-Lab-1-2\ZPD_1_2\bin\Debug\netcoreapp3.1\ZPD_1_2.runtimeconfig.json
+E:\ZPD\ZPD-Lab-1-2\ZPD_1_2\bin\Debug\netcoreapp3.1\ZPD_1_2.runtimeconfig.dev.json
+E:\ZPD\ZPD-Lab-1-2\ZPD_1_2\bin\Debug\netcoreapp3.1\ZPD_1_2.dll
+E:\ZPD\ZPD-Lab-1-2\ZPD_1_2\bin\Debug\netcoreapp3.1\ZPD_1_2.pdb
+E:\ZPD\ZPD-Lab-1-2\ZPD_1_2\obj\Debug\netcoreapp3.1\ZPD_1_2.csprojAssemblyReference.cache
+E:\ZPD\ZPD-Lab-1-2\ZPD_1_2\obj\Debug\netcoreapp3.1\ZPD_1_2.csproj.CoreCompileInputs.cache
+E:\ZPD\ZPD-Lab-1-2\ZPD_1_2\obj\Debug\netcoreapp3.1\ZPD_1_2.AssemblyInfoInputs.cache
+E:\ZPD\ZPD-Lab-1-2\ZPD_1_2\obj\Debug\netcoreapp3.1\ZPD_1_2.AssemblyInfo.cs
+E:\ZPD\ZPD-Lab-1-2\ZPD_1_2\obj\Debug\netcoreapp3.1\ZPD_1_2.dll
+E:\ZPD\ZPD-Lab-1-2\ZPD_1_2\obj\Debug\netcoreapp3.1\ZPD_1_2.pdb
+E:\ZPD\ZPD-Lab-1-2\ZPD_1_2\obj\Debug\netcoreapp3.1\ZPD_1_2.genruntimeconfig.cache
