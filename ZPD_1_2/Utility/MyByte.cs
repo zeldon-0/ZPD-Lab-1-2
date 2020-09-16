@@ -20,6 +20,7 @@ namespace ZPD_1_2.Utility
                 _bits.Add(false);
                 return;
             }
+
             int maxPower = 0;
             while (Math.Pow(2, maxPower) < number)
             {
@@ -52,9 +53,6 @@ namespace ZPD_1_2.Utility
         public static  MyByte operator ^(MyByte myByte1, MyByte myByte2)
         {
             List<bool> result = new List<bool>(myByte1._bits );
-
-            int length = myByte1._bits.Count > myByte2._bits.Count
-                ? myByte1._bits.Count : myByte2._bits.Count;
 
             for (int i = 0; i < myByte2._bits.Count; i++)
             {
