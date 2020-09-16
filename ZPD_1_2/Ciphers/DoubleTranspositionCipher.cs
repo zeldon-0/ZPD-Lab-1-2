@@ -7,8 +7,6 @@ namespace ZPD_1_2.Ciphers
     public class DoubleTranspositionCipher
     {
 
-
-
         public string Encode(string message, int[] rowTransposition, int[] columnTransposition)
         {
             int rows = rowTransposition.GetLength(0);
